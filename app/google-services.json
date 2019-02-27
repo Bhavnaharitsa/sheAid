@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190540141397",
+    "firebase_url": "https://logindata-57606.firebaseio.com",
+    "project_id": "logindata-57606",
+    "storage_bucket": "logindata-57606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190540141397:android:303a3316da934e74",
+        "android_client_info": {
+          "package_name": "com.example.bhavnaharitsa.mvpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190540141397-hd2gbscdrjcl22gtuqtirj29otjufch7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavnaharitsa.mvpapp",
+            "certificate_hash": "0767972a95e35076a29d25d75650174b972b6379"
+          }
+        },
+        {
+          "client_id": "190540141397-rqtgbleivfnhie75e61jh1fl62hvv0b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK685ls34NxVOK5ji8r7k7nGmRUl9epV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190540141397-rqtgbleivfnhie75e61jh1fl62hvv0b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
